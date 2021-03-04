@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>ASSOCIATION</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+<table>
+    <tr class="header">
+        <td colspan="2"><h1>BAALAL TOUBA FOULBE</td></h1>
+    </tr>
+    <tr class="nav">
+        <td colspan="2">
+        <ul>
+         <li><a href="#" class="nav-link">Présentation de l'Association</li></a>
+        <li><a href="#" class="nav-link">Nos Activités</a></li>
+     <li><a href="#" class="nav-link">Nous contacter</li></a>
+     </ul>
+        </td>
+    </tr>
+    <tr>
+     <td class="section col-3-4">
+      <div class="article">
+       <h3>Historique de l'Association</h3>
+       
+    Contexte
+ <p>L’ Association BALAAL TOUBA FOULBE , du nom d’un village de la Casamance au Sénégal.
+En effet , il y a une année l’idée de créer cette association naissait à la suite d’un drame familial : je venais d’apprendre que mon frère cadet, dans sa tentative désespérée , comme des milliers d’autres jeunes Africains, s’était noyé dans la Méditerranéenne au large de la Libye !</p><p>Après le chagrin et le deuil, soutenu par ma famille et des amis, nous avons décidé de tout faire , pour que dans la mesure de nos moyens , nous puissions contribuer à arrêter ces  drames. C’est ainsi que nous avons pensé à créer une association pour monter des activités génératrices de revenus sur place afin de décourager ces voyages sans retour. Nous avons, comme chacun le sait , penser aux activités agropastorales étant donné que c’est l’activité principale en Afrique et sans conteste génératrice de revenus dans le milieu rural</p>.<p>De quoi s’agit-il exactement ? Sur un terrain de 10 hectares, une propriété héritée de la famille , nous allons planter une bananeraie après tous le travaux de défrichement et de labour que nécessité cette activité, Autour de ce champ, nous allons encadrer les jeunes du village pour la création d’activités connexes : petits restaurants, ateliers de réparation, kiosques de vente de produits de première nécessité, kiosques de connexion internet etc</p>.
+<p>Ces activités, nous en sommes convaincus, vont aider les jeunes à se fixer sur place et leur procureront des revenus pour eux et pour leurs familles. Rien qu’ à penser qu’en 2016, plus de 5000 personnes on péri en Méditerranée, selon les chiffres des Nations-Unies, il y a de quoi parler de drame du siècle ! Même à l’heure où je vous parle , des jeunes sont entrain de disparaître quelque part dans le désert libyen ou dans les faubourgs de Tripoli vendus comme des esclaves !
+Si grâce à cette initiative, nous pouvons sauver une seule vie , nous aurons gagné notre pari ? Car sauver ne fût-ce qu'une seule vie humaine n’a pas de prix !</p>
+      </div>
+       </p>
+   <p>Tous droits réservés</p>
+    </td>
+    </tr>
+</table>
+</body>
+</html>
+
+
